@@ -86,23 +86,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RJNIJUL&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RJNIJUL&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RJNIJUL&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RJNIJUL&theme=tokyonight&row=1&column=6" alt="Trophies"/>
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 <p align="left">
@@ -116,9 +99,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</p>
+<p align="center"><i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RJNIJUL&style=flat-square&color=6366F1" alt="Profile Views"/>
