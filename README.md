@@ -66,7 +66,7 @@ I'm looking for an opportunity where I can apply my skills to real-world problem
 
 - **LinkedIn:** https://www.linkedin.com/in/nijul-jamwal-51b7b83b8/
 - **Email:** nijuljamwal555@gmail.com
-- **GitHub:** github.com/RJNIJUL
+- **GitHub:** https://github.com/RJNIJUL
 
 ---
 
